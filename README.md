@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @acnicholls
 - 👀 I’m interested in Application Solutions
-- 🌱 I’m currently learning 
+- :muscle: I'm strong in
+  - Backend Technologies
+  - WinForms
+  - C#
+  - T-SQL
+  - PL/SQL
+- 🌱 I’m currently learning
+  -   graphql
   -   React/Angular/Vue
   -   Redux/React Query
   -   Azure ADO
@@ -8,7 +15,7 @@
   -   Microsoft.Maui
 - 💞️ I have a Full Time Position as a Senior Software Engineer working with:
   - SQL Server
-  - .NetCore3.1/Net6.0
+  - .Net3.1/4.x/5/6/7/8+
   - Redis
   - Entity Framework
   - React /w Typescript
