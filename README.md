@@ -17,13 +17,14 @@
   - SQL Server
   - .Net3.1/4.x/5/6/7/8+
   - Redis
-  - Entity Framework
+  - Entity Framework Core
   - React /w Typescript
   - Redux
   - Ant Design
   - Azure
   - Kubernetes
   - Traefik
+  - SignalR
 - 🪘 Hobbies include camping, kayaking, making music, growing things, cooking, and being in nature.
 <!---
 acnicholls/acnicholls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
