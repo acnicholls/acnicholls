@@ -25,7 +25,7 @@
   - Kubernetes
   - Traefik
   - SignalR
-- 🪘 Hobbies include camping, kayaking, making music, growing things, cooking, and being in nature.
+- 🪘 Hobbies include camping, kayaking, making music, growing things, cooking, and being in nature.  I also enjoy attending music events, playing table-top games, pub crawls and dance clubs.
 <!---
 acnicholls/acnicholls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
